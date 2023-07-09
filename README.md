@@ -1,5 +1,4 @@
-Repository made for the Assignments of the machine learning course.# Machine_Learning_BITSF464
-Repository made for the Assignments of machine learning course.
+Repository made for the Assignments of the machine learning course.]
 
 **Project Description**
 
